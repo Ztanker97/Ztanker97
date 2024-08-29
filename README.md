@@ -1,5 +1,5 @@
 </html>
-  <head> <title>Michael Ninh</title>
+  <head> 
   </head>
   <body>
     <h1> About me </h1>
